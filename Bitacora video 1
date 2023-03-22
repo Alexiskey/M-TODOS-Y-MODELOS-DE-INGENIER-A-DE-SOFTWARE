@@ -1,13 +1,36 @@
 Notas
+Video 1
 El video se enfoca principalmente en demostrar el funcionamiento del trabajo de desarrollo de software mediante la analogía de construir una casa. 
 El objetivo es ejemplificar los pasos y requisitos necesarios para la construcción de una casa con los procesos necesarios para la construcción de software.
 
+Video 2
+El video se enfoca en la especificación de requisitos de software. Se menciona que hay dos maneras de escribir estas declaraciones, una para el usuario o 
+cliente y otra para el equipo de desarrollo. Se explica que es importante proporcionar suficientes detalles para ambas audiencias y tener cuidado con el 
+lenguaje que se utiliza para evitar malentendidos.
+
+Video 3
+Los videos habla sobre los requisitos no funcionales en el desarrollo de sistemas, los cuales no especifican qué hará el sistema, sino cómo lo hará. 
+Hay muchos requisitos no funcionales para un sistema, y muchos de ellos están relacionados con los atributos de calidad de proceso que se buscan en un proyecto.
+Tambien se distinguen las diferencias entre los requisitos del usuario y la especificación del sistema, y se explica que el diseño de software y como se aplicaran 
+los requerimientos.
+
+
 Ideas
-El video explica importantes términos y definiciones relacionados con el desarrollo de software, incluyendo los requisitos y requerimientos necesarios 
+Los videos explica importantes términos y definiciones relacionados con el desarrollo de software, incluyendo los requisitos y requerimientos necesarios 
 para planificar el desarrollo de un proyecto de software. Además, se exploran términos como diseño, implementación y verificación, así como distintos 
 modelos para el desarrollo. El video también presenta el "modelo ágil”, el cual es un modelo de desarrollo más flexible y adaptable a través de pruebas y 
-aprendizaje constante para adaptarse a los requerimientos del cliente.
+aprendizaje constante para adaptarse a los requerimientos del cliente. 
+Asi tambien se explican los requisitos no funcionales son importantes para definir cómo el sistema realizará su comportamiento. Hay muchos requisitos no 
+funcionales para un sistema, estos están relacionados con los atributos de calidad de proceso que se buscan en un proyecto. La seguridad, el rendimiento y 
+la usabilidad son importantes para la calidad del software.
 
 Resumen
-En resumen, el video ofrece información valiosa sobre los tipos y modelos de desarrollo de software, así como los pasos necesarios para planificar un 
+En resumen, los videos ofrece información valiosa sobre los tipos y modelos de desarrollo de software, así como los pasos necesarios para planificar un 
 proyecto de software. Además, proporciona metodologías útiles para la organización de trabajos diarios y proyectos futuros.
+
+El segundo vido explica la funcionalidad de un documento de especificación de requisitos de software y la importancia de proporcionar suficientes detalles 
+para ambas audiencias, así como de distinguir entre los requisitos del usuario y la especificación del sistema para garantizar que se cumplan los requisitos 
+del usuario.
+
+tambien la importancia de considerar cada requisito individual no funcional para asegurarse de cumplir con las métricas durante el proceso. En general, 
+los requisitos no funcionales son una pieza muy importante del proceso de desarrollo y deben ser considerados separadamente de la funcionalidad.
