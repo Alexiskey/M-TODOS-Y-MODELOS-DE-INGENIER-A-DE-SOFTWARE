@@ -1,0 +1,70 @@
+Notas
+
+video 6: Se explican cuatro conceptos clave relacionados con la modularidad: acoplamiento, cohesión, información oculta y encapsulación de datos. Se destaca 
+    la importancia de la descomponibilidad y la composabilidad para manejar la complejidad del desarrollo de software y cómo la ocultación de información y la 
+    encapsulación de datos pueden ayudar a proteger los datos y mantener su integridad.
+    
+video 7: El objetivo del acoplamiento holgado es que los cambios en un módulo no afecten a los otros módulos, o lo hagan lo menos posible. Los diferentes 
+    tipos de acoplamiento, desde el más fuerte al más holgado: acoplamiento de contenido, común, externo, de control, de estructura de datos, de datos y 
+    de mensajes.
+
+video 8: se explica cómo medir el acoplamiento en el diseño de software. Explica dependencia entre las diferentes clases en el sistema y se busca limitarlo 
+    a lo necesario. La inestabilidad y cómo el cambio afecta a una clase, y como la proporción entre el acoplamiento eferente y el total de dependencias relacionadas 
+    con la clase. La abstracción es la proporción entre el acoplamiento aferente y el total de dependencias relacionadas con la clase. Se busca tener una alta 
+    abstracción y baja inestabilidad
+
+video 9: se explica el concepto de cohesión en programación, que se refiere a cómo bien todas las partes de un módulo trabajan juntas hacia un propósito singular. 
+    Se describen diferentes niveles de cohesión, desde la más débil, que es la coincidencia, hasta la más fuerte, que es la cohesión funcional y de objeto. 
+    También se menciona que la herencia debilita la cohesión, pero que puede ser una compensación fácil de hacer por los beneficios que proporciona. Entender 
+    los diferentes tipos de cohesión puede ayudar a construir mejores sistemas y soluciones.
+
+video 10: se explica la conexión entre las responsabilidades y el estado de una clase, y su objetivo es descomponer un sistema complejo en métodos y atributos 
+    altamente cohesivos. Si una clase hace demasiado, especialmente cosas no relacionadas, entonces no se sigue el principio de responsabilidad única. La falta 
+    de cohesión de los métodos o LCOM es una medida que ayuda a identificar cuando una entidad no ha capturado un solo conjunto de complejidad. LCOM4 es una mejora 
+    que simplifica la fórmula original y permite asignar los métodos a las variables de clase que utilizan, después de lo cual se puede tener un gráfico conectado de 
+    todos los elementos de la clase y determinar el recuento de componentes.
+
+video 11: habla de las medidas de calidad de software además de la falta de cohesión de los métodos y la inestabilidad, como la densidad de defectos, la complejidad 
+    ciclomática, la complejidad cognitiva y la calificación de capacidad de mantenimiento. La densidad de defectos mide el número de errores en el código en relación 
+    con el número de líneas de código en una clase.
+
+video 12: Se explica que el propósito de las pruebas es encontrar errores y que para hacerlas, es necesario tener el software bajo prueba, que puede ser cualquier 
+    parte o subconjunto del programa que haya sido completado. Se menciona que se deben proporcionar datos de entrada para cada prueba y que se debe verificar si el
+    resultado obtenido es el esperado. Además, se habla de la importancia del oráculo, que es algo que determina si el resultado obtenido es correcto o no. 
+    Finalmente, se explican las diferencias entre datos de prueba y casos de prueba.
+
+video 13: video trata la verificación y validación en las pruebas de software. Se define la verificación como la comprobación de que el software se ajusta y cumple con su 
+    especificación, es decir, lo que se ha escrito que hará. Por otro lado, la validación es la comprobación de que el software se ajusta a la satisfacción del 
+    usuario, es decir, lo que el usuario quiere y necesita. Se explican diferentes definiciones de verificación y validación, y se destaca la importancia de incluir 
+    al usuario en la validación del software. 
+
+video 14: El video trata sobre estrategias de prueba en el que se presentan las pruebas incrementales, que consisten en ejecutar pruebas antiguas en conjunto con pruebas
+    recientes cada vez que se agrega nuevo código para asegurarse de que todo el código sigue funcionando correctamente. Además, se describen los Stubs y los Mocks, 
+    que son herramientas utilizadas para probar el código antes de que se construyan partes del software. El Back to Back Testing se utiliza para expandir los datos 
+    de prueba y comparar la salida de una versión anterior del programa con la nueva versión para asegurarse de que el programa sigue funcionando correctamente.
+
+video 15: El video muestra las perspectivas de prueba y su aplicación en el proceso de validación y verificación de software. Se mencionan dos enfoques: black-box y 
+    white-box testing, donde el primero se centra en el comportamiento del sistema sin conocer su código, mientras que el segundo se enfoca en la estructura del 
+    programa y su código. También se discute la importancia de las pruebas de integración para garantizar que los componentes funcionen juntos según lo previsto y 
+    se describen las diferentes etapas de las pruebas, desde las pruebas unitarias hasta las pruebas del sistema completo.
+  
+video 16:se explora la importancia de la implementación de un producto de software y los posibles problemas que pueden surgir durante este proceso. se sugieren 
+    diferentes secciones que deberían incluirse en el plan, como el entorno físico, la documentación, el entrenamiento y las actividades relacionadas con la 
+    base de datos. También se destaca la importancia de tener un plan para la recuperación en caso de que algo salga mal durante la implementación.
+
+video 17:El video explica la importancia de tener un procedimiento de rollback en la implementación de software. La reversión es necesaria cuando la implementación 
+    no va como se planeó. Para evitar problemas, es importante tener un plan de reversión aprobado que incluya pasos específicos para revertir los cambios y que 
+    haya sido aprobado por los gerentes. El propósito de la reversión es mantener viva la producción, ya que se está implementando en producción. 
+
+Ideas
+
+ En los primeros videos, se aborda la modularidad del software y se explican conceptos clave como acoplamiento, cohesión, información oculta y encapsulación de datos. 
+ También se describe el acoplamiento holgado y cómo medir el acoplamiento y la cohesión en el diseño de software. En los videos siguientes, se habla sobre la calidad 
+ del software y se presentan medidas como la falta de cohesión de los métodos, la inestabilidad, la densidad de defectos, la complejidad ciclomática y la complejidad 
+ cognitiva. Finalmente, se describen diferentes estrategias de prueba como las pruebas incrementales.
+
+Resumen
+
+Los conceptos fundamentales y técnicas para desarrollar software de calidad. Los videos se centran en aspectos como la modularidad, la cohesión, el acoplamiento, 
+la responsabilidad única, la verificación y validación, y las estrategias de prueba. Estos conceptos son importantes para crear sistemas y soluciones escalables,
+mantenibles y eficientes.
