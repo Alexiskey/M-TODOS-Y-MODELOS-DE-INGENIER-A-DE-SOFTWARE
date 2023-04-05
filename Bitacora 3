@@ -1,17 +1,23 @@
-Notas:
+Notas: 
 
 Video 1: el video explica el modelo de arquitectura de kruchten, el cual se centra en analizar la cista logica, vista de proceso, vista de desarrollo y vista de fisica,
-  estas cuatro vistas corresponden a las perspectivas clave que entran en la arquitectura de una solución de software. En lugar de tener una sola vista que no captura 
-  todos las perspectivas necesarias del sistema. Este modelo puede capturar e integrar con precisión las diferentes perspectivas necesarias en la arquitectura de software.
+    estas cuatro vistas corresponden a las perspectivas clave que entran en la arquitectura de una solución de software. En lugar de tener una sola vista que no captura 
+    todos las perspectivas necesarias del sistema. Este modelo puede capturar e integrar con precisión las diferentes perspectivas necesarias en la arquitectura de software.
   
-Video 2:
+Video 2: El video explica los diagramas de componentes de UML y como funcionan los componentes. estos se utilizan para visualizar cómo interactúan las piezas de un sistema y 
+    qué relaciones tienen entre ellas. Lo que diferencia a los diagramas de componentes de muchos otros diagramas es que se trata de una estructura de alto nivel y no 
+    de detalles como atributos y métodos.
 
-Video 3:
+Video 3: El video nos enseña la funcionalidad de un diagrama de paquetes UML puede ser muy útil para obtener una visión más amplia de su sistema, particularmente de espacios
+    de nombres y nombres y quién sabe quién. Te ayuda a visualizar los diferentes espacios de nombres y sus propósitos mucho más fácilmente. Puede tener una buena idea 
+    de cómo interactúan diferentes agrupaciones de clases.
 
-Video 4:
+Video 4: lo que explica el video sobre los diagramas de desarrollo UML de diagrma es que xsiten 2 de diagramas, el diagrama de nivel de especificación y que ofrece una 
+    visión general de los artefactos y los objetivos de implementación y los diagrama de nivel de instancia es un enfoque mucho más específico, que puede asignar un 
+    artefacto específico a un objetivo de implementación específico.
 
-Video 5:
+Video 5: En un diagrama de actividad de UML, representa el flujo de control de una actividad a otra en un sistema de software, se Puede considerar las actividades como 
+    acciones que impulsa el flujo de ejecución en su sistema.El propósito del diagrama de actividades es capturar el comportamiento dinámico del sistema. Cómo fluye 
+    el control de una actividad a otra. El diagrama de actividad le permite mapear la ramificación en flujos alternativos.
 
-Ideas
 
-Resumen
