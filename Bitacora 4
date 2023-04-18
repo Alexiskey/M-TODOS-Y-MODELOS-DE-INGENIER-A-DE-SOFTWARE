@@ -1,0 +1,53 @@
+Notas: 
+
+Video 1: Los modelos se clasifican en predictivos versus adaptativos y en incrementales versus iterativos. El modelo predictivo se utiliza cuando el cliente tiene 
+    una comprensión completa de los requisitos del software y no se permiten cambios durante la fase de desarrollo. En el modelo adaptativo, el cliente tiene una idea 
+    general de lo que quiere y se hacen cambios en función de la retroalimentación recibida. En un modelo incremental, el software se construye en incrementos, mientras
+   que en un modelo iterativo, se va mejorando a través de la retroalimentación recibida. 
+
+Video 2: En el video se explica el modelo de desarrollo de software conocido como método de cascada. Este modelo consiste en seguir una secuencia lógica de procesos 
+    de ingeniería de software que incluyen la definición de requisitos, diseño, pruebas de implementación, implementación y mantenimiento. Si se detecta algún error 
+    durante el proceso, se puede volver a la fase anterior para corregirlo.
+
+Video 3: El video introduce el modelo V, que se parece al método de cascada, pero está doblado en forma de V y se enfoca en la validación temprana en el proceso de 
+    desarrollo de software. El modelo tiene un lado izquierdo que se enfoca en la definición del proyecto y un lado derecho que muestra la validación correspondiente 
+    a cada paso del lado izquierdo.
+
+Video 4: El video describe el Modelo Sashimi, que permite superponer las diferentes fases del ciclo de vida de desarrollo de software para acelerar el proceso.
+    En este modelo, no se tiene que esperar a que finalice la fase anterior para comenzar con la siguiente fase, lo que puede reducir el tiempo de desarrollo. 
+    Sin embargo, el modelo puede resultar en retrabajo si se encuentra algún problema en las fases anteriores después de haber comenzado con la siguiente fase. 
+
+Video 5: Este video explica el modelo incremental en el desarrollo de software, que consiste en construir la aplicación en incrementos en lugar de hacerlo todo 
+    de una vez. Cada incremento se somete a requisitos, diseño, implementación, pruebas e implementación por separado, y si es útil para los usuarios, puede ser 
+    implementado y usado. Los diferentes modelos pueden ser utilizados para cada incremento y la retroalimentación de un incremento puede ser aplicada a los incrementos 
+    futuros.
+
+Video 6: En el video se explica el Proceso Unificado de Desarrollo de Software y su variante Modelo de Cascada, que es muy utilizado en la industria actual. El modelo 
+    está dividido en dos dimensiones, la superior define las fases de Inicio, Elaboración, Construcción y Transición, mientras que la otra describe los pasos de 
+    Requisitos, Análisis, Diseño, Implementación y Prueba.
+
+Video 7: El Modelo Espiral es un enfoque basado en el riesgo para el desarrollo de software que es cíclico, en el que cada ciclo tiene cuatro pasos básicos: determinar 
+    objetivos, identificar y resolver riesgos, desarrollar en base a lo que se necesita para cumplir objetivos y planear la próxima iteración.
+
+Video 8: En este video se aprende acerca de las puertas del escenario, las cuales permiten a una organización revisar el progreso de un proyecto y decidir si 
+    continuar o no. Las puertas del escenario son puntos de control en diferentes partes del proceso de desarrollo de software, en los cuales se comprueba la 
+    calidad de la ejecución, si tiene sentido continuar con el proyecto y si hay un plan de acción sólido para el siguiente paso. La estructura de la puerta 
+    incluye los entregables de la fase anterior, los criterios en los que se juzga el proyecto, la decisión que se tome respecto al proyecto, el plan de acción 
+    aprobado para la siguiente puerta y la lista de entregables y fecha para la siguiente puerta.
+
+Video 9: El surgimiento de los métodos Agile se debió a los desafíos que enfrentaba la industria del software con el método de la cascada, incluyendo problemas 
+    inesperados durante la fase de verificación, usuarios que no obtienen los beneficios esperados y la dificultad de predecir los requisitos de los usuarios. 
+    Los métodos Agile buscan reducir el ciclo de aprendizaje y aumentar la colaboración entre los miembros del equipo. 
+
+Video 10: El video explica acerca del Manifiesto Ágil, el cual consta de cuatro valores y doce principios. Los valores son: descubrir mejores formas de desarrollar 
+    software, valorar a los individuos y sus interacciones sobre procesos y herramientas, trabajar en software sobre documentación integral y colaborar con el cliente 
+    en la negociación de contratos y respuesta al cambio
+
+Video 11: En esta lección se aprende acerca de Scrum, uno de los marcos de trabajo más populares para la implementación de la mentalidad ágil. Scrum utiliza sprint de 
+    una a cuatro semanas, donde el equipo construye su producto de forma incremental y lo muestra a las partes interesadas después de cada sprint. El proceso se repite 
+    hasta que se obtiene el producto final. En contraste con el método cascada, que se basa en un gran lote final de trabajo. 
+
+Video 12: el video habla sobre  Kanban no prescribe iteraciones fijas, sino que es un conjunto de principios y propiedades que optimizan el proceso de desarrollo de software mientras sea un flujo continuo. El primer principio de Kanban es visualizar el flujo de trabajo, que se logra mediante la creación de un tablero visual. La segunda propiedad es limitar el trabajo en curso, definiendo cuál es el número máximo de elementos que pueden permanecer en un estado.
+
+Video 13:
+
