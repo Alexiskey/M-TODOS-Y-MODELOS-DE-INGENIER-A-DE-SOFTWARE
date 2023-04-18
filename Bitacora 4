@@ -47,7 +47,16 @@ Video 11: En esta lección se aprende acerca de Scrum, uno de los marcos de trab
     una a cuatro semanas, donde el equipo construye su producto de forma incremental y lo muestra a las partes interesadas después de cada sprint. El proceso se repite 
     hasta que se obtiene el producto final. En contraste con el método cascada, que se basa en un gran lote final de trabajo. 
 
-Video 12: el video habla sobre  Kanban no prescribe iteraciones fijas, sino que es un conjunto de principios y propiedades que optimizan el proceso de desarrollo de software mientras sea un flujo continuo. El primer principio de Kanban es visualizar el flujo de trabajo, que se logra mediante la creación de un tablero visual. La segunda propiedad es limitar el trabajo en curso, definiendo cuál es el número máximo de elementos que pueden permanecer en un estado.
+Video 12: el video habla sobre  Kanban no prescribe iteraciones fijas, sino que es un conjunto de principios y propiedades que optimizan el proceso de desarrollo de 
+        software mientras sea un flujo continuo. El primer principio de Kanban es visualizar el flujo de trabajo, que se logra mediante la creación de un tablero visual.
+        La segunda propiedad es limitar el trabajo en curso, definiendo cuál es el número máximo de elementos que pueden permanecer en un estado.
 
-Video 13:
+Video 13: El video habla sobre el concepto Lean Startup que se enfoca en aprender rápidamente sobre las necesidades reales del usuario. Este modelo se centra en un ciclo 
+        de construir, medir y aprender, con la idea de validar el aprendizaje. También se trata de completar el ciclo lo más rápido posible para reducir los residuos y 
+        llegar al mercado de manera más rápida. El modelo se centra en las suposiciones que tienen que ser verdaderas para que tenga éxito. 
+        
 
+Resumen 
+Los videos proporcionan información sobre diferentes modelos de desarrollo de software utilizados en la industria, incluyendo modelos predictivos, adaptativos, 
+iterativos e incrementales. También se describen modelos específicos, como el modelo de cascada, el modelo V, el modelo Sashimi, el Proceso Unificado de Desarrollo 
+de Software, el Modelo Espiral, Scrum y Kanban. Además, se discute el surgimiento de los métodos Agile y se presenta el Manifiesto Ágil.
