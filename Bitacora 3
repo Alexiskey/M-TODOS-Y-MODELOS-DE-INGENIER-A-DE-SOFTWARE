@@ -19,5 +19,12 @@ Video 4: lo que explica el video sobre los diagramas de desarrollo UML de diagrm
 Video 5: En un diagrama de actividad de UML, representa el flujo de control de una actividad a otra en un sistema de software, se Puede considerar las actividades como 
     acciones que impulsa el flujo de ejecución en su sistema.El propósito del diagrama de actividades es capturar el comportamiento dinámico del sistema. Cómo fluye 
     el control de una actividad a otra. El diagrama de actividad le permite mapear la ramificación en flujos alternativos.
+    
+    
+Resumen
+Estos videos proporcionan una visión general de los diferentes elementos y herramientas que se utilizan en la arquitectura de soluciones de software para 
+ayudar a los desarrolladores a capturar e integrar las diferentes perspectivas necesarias en la arquitectura de software. Los videos incluyen una introducción 
+al modelo de arquitectura de Kruchten, los diagramas de componentes de UML, la funcionalidad de los diagramas de paquetes UML, los diagramas de desarrollo UML 
+y los diagramas de actividad UML.
 
 
